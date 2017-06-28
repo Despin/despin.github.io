@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-28T11:37:05-03:00</updated><id>http://localhost:4000/</id><title type="html">Despin &amp;amp; Cuerxo Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Bienvenido al blog</title><link href="http://localhost:4000/jekyll/anuncio/2017/06/27/bienvenido-al-blog.html" rel="alternate" type="text/html" title="Bienvenido al blog" /><published>2017-06-27T22:33:54-03:00</published><updated>2017-06-27T22:33:54-03:00</updated><id>http://localhost:4000/jekyll/anuncio/2017/06/27/bienvenido-al-blog</id><content type="html" xml:base="http://localhost:4000/jekyll/anuncio/2017/06/27/bienvenido-al-blog.html">&lt;p&gt;Hola! Abri este blog para postear alguna boludez y seguro que un amigo me ayudara a esto. Espero poder postear algun tutorial
+Tengo listado algunos tutoriales para hacer:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Usar Github&lt;/li&gt;
+  &lt;li&gt;Usar Git o GitG&lt;/li&gt;
+  &lt;li&gt;Usar Git y Github como un servicio cloud storage&lt;/li&gt;
+  &lt;li&gt;Usar Git y Github como un blog con Jekyll&lt;/li&gt;
+  &lt;li&gt;Escribir notas con Markdown y sincronizar con Git y Github&lt;/li&gt;
+  &lt;li&gt;Instalar y configurar Arch&lt;/li&gt;
+  &lt;li&gt;Configurar i3&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Hola! Abri este blog para postear alguna boludez y seguro que un amigo me ayudara a esto. Espero poder postear algun tutorial Tengo listado algunos tutoriales para hacer: Usar Github Usar Git o GitG Usar Git y Github como un servicio cloud storage Usar Git y Github como un blog con Jekyll Escribir notas con Markdown y sincronizar con Git y Github Instalar y configurar Arch Configurar i3</summary></entry></feed>
